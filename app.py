@@ -8,7 +8,7 @@ app = Flask(__name__)
 # Note: Geolocation is handled separately as it uses a fixed API and custom logic.
 # -------------------------------
 SERVICE_APIS = {
-    "phone": "https://source-code-api.vercel.app/?num=",
+    "phone": "https://abbas-apis.vercel.app/api/phone?number=919087654321",
     "pan": "https://abbas-apis.vercel.app/api/pan?pan=",
     "vehicle": "https://Tobi-rc-api.vercel.app/?rc_number=",
     "ifsc": "https://abbas-apis.vercel.app/api/ifsc?ifsc=",
