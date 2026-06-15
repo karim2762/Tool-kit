@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 # 🚀 KEXER Information Toolkit
@@ -198,4 +198,3 @@ Your support helps improve future projects.
 ⭐ Don't forget to leave a star if you found it helpful.
 
 </div>
-````
