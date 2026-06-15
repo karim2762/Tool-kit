@@ -77,7 +77,8 @@ The developer shall not be held responsible for any misuse of this software.
 
 ```bash
 git clone https://github.com/karim2762/Tool-kit.git
-cd kexer-information-toolkit
+
+cd toolkit
 
 pip install -r requirements.txt
 
