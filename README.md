@@ -92,11 +92,11 @@ The application features a modern and responsive interface built with a strong f
 Tool-kit/
 │
 ├── app.py
+│
 ├── requirements.txt
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── assets/
+│
+├── templates/
+│   └── index.html
 │
 ├── templates/
 │
@@ -131,19 +131,7 @@ Run the application
 python app.py
 ```
 
----
 
-# 📸 Screenshots
-
-> Add screenshots of your application here.
-
-```
-assets/home.png
-assets/dashboard.png
-assets/results.png
-```
-
----
 
 # 🔒 Privacy & Security
 
